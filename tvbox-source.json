@@ -1,14 +1,6 @@
 {
     "urls": [
         {
-            "name": "🍚饭太硬",
-            "url": "http://www.饭太硬.art/tv"
-        },
-        {
-            "name": "🧙‍♀️莱妮丝",
-            "url": "https://tv.菜妮丝.top"
-        },
-        {
             "name": "🧑潇洒",
             "url": "https://9877.kstore.space/ONE/one.json"
         },
@@ -21,12 +13,36 @@
             "url": "https://9280.kstore.space/wex.json"
         },
         {
-            "name": "🐟摸鱼儿",
-            "url": "http://www.小不点.com"
-        },
-        {
             "name": "🐅嗷呜",
             "url": "http://mytv6688.xyz/aowu/config.webp"
+        },
+        {
+            "name": "🌾东篱",
+            "url": "https://16151.kstore.space"
+        },
+        {
+            "name": "🌬️夏天微风",
+            "url": "https://11405.kstore.space/xiaye/qk4k.json"
+        },
+        {
+            "name": "🌌沐辰",
+            "url": "https://php.doube.eu.org/spider/php/config.php"
+        },
+        {
+            "name": "👨💻软件小哥哥",
+            "url": "http://47.96.82.41:5188/svip/svip.json"
+        },
+        {
+            "name": "🍚饭太硬",
+            "url": "http://www.饭太硬.art/tv"
+        },
+        {
+            "name": "🧙♀️莱妮丝",
+            "url": "https://tv.菜妮丝.top"
+        },
+        {
+            "name": "🐟摸鱼儿",
+            "url": "http://www.小不点.com"
         },
         {
             "name": "🧰宝盒",
@@ -37,22 +53,6 @@
             "url": "http://肥猫.net"
         },
         {
-            "name": "🌾东篱",
-            "url": "https://16151.kstore.space"
-        },
-        {
-            "name": "🌪️南风",
-            "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-        },
-        {
-            "name": "🍋雷蒙影视",
-            "url": "https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/lem.json"
-        },
-        {
-            "name": "🌬️夏天微风",
-            "url": "https://11405.kstore.space/xiaye/qk4k.json"
-        },
-        {
             "name": "✨七星",
             "url": "http://7337.kstore.space/qxys/禁止传播.json"
         },
@@ -61,12 +61,12 @@
             "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/海豚影视.json"
         },
         {
-            "name": "🌌沐辰",
-            "url": "https://php.doube.eu.org/spider/php/config.php"
+            "name": "🌪️南风",
+            "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
         },
         {
-            "name": "👨‍💻软件小哥哥",
-            "url": "http://47.96.82.41:5188/svip/svip.json"
+            "name": "🍋雷蒙影视",
+            "url": "https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/lem.json"
         }
     ]
 }
